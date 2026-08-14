@@ -1,0 +1,12 @@
+{
+  "appName": "फार्मर दोस्त",
+  "nav": { "dashboard": "डैशबोर्ड", "recommend": "सिफारिश", "verify": "उत्पाद सत्यापित करें", "weather": "मौसम", "market": "बाज़ार", "complaints": "शिकायतें", "login": "लॉगिन", "signup": "साइन अप", "logout": "लॉगआउट" },
+  "login": { "title": "लॉगिन करें", "phone": "फ़ोन नंबर", "password": "पासवर्ड", "submit": "लॉगिन", "noAccount": "खाता नहीं है?", "signupLink": "यहाँ साइन अप करें" },
+  "signup": { "title": "खाता बनाएँ", "name": "पूरा नाम", "phone": "फ़ोन नंबर", "email": "ईमेल (वैकल्पिक)", "password": "पासवर्ड", "state": "राज्य", "district": "जिला", "submit": "साइन अप करें", "haveAccount": "पहले से खाता है?", "loginLink": "यहाँ लॉगिन करें" },
+  "dashboard": { "welcome": "स्वागत है", "subtitle": "आपका संपूर्ण खेती सहायक", "recommendCard": "फसल और उर्वरक सिफारिश पाएं", "verifyCard": "QR कोड से उत्पाद सत्यापित करें", "weatherCard": "मौसम और खेती सलाह देखें", "marketCard": "कृषि उत्पाद देखें", "complaintsCard": "नकली या समाप्त उत्पादों की रिपोर्ट करें" },
+  "recommend": { "title": "फसल और उर्वरक सिफारिश", "crop": "फसल", "season": "मौसम (सीज़न)", "soilType": "मिट्टी का प्रकार", "submit": "सिफारिश पाएं", "result": "अनुशंसित उर्वरक", "confidence": "विश्वास स्तर", "tip": "सुझाव", "soilNote": "मिट्टी नोट" },
+  "verify": { "title": "उत्पाद की प्रामाणिकता जांचें", "scanBtn": "QR कोड स्कैन करें", "manualLabel": "या कोड मैन्युअल रूप से दर्ज करें", "checkBtn": "जांचें", "genuine": "असली उत्पाद", "fake": "चेतावनी: सत्यापित नहीं / नकली", "expired": "समाप्त हो चुका" },
+  "weather": { "title": "मौसम और खेती सलाह", "useLocation": "मेरा स्थान उपयोग करें", "orCity": "या शहर से खोजें", "search": "खोजें", "temperature": "तापमान", "humidity": "नमी", "condition": "स्थिति", "advice": "खेती सलाह" },
+  "market": { "title": "बाज़ार", "search": "उत्पाद खोजें", "buy": "खरीदें", "outOfStock": "स्टॉक में नहीं", "addToOrder": "ऑर्डर में जोड़ें", "placeOrder": "ऑर्डर करें" },
+  "complaints": { "title": "उत्पाद समस्या की रिपोर्ट करें", "issueType": "समस्या का प्रकार", "description": "विवरण", "qrCode": "QR कोड (यदि उपलब्ध हो)", "submit": "शिकायत भेजें", "myComplaints": "मेरी शिकायतें", "status": "स्थिति" }
+}

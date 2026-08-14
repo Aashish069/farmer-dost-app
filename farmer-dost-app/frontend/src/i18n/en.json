@@ -1,0 +1,12 @@
+{
+  "appName": "Farmer Dost",
+  "nav": { "dashboard": "Dashboard", "recommend": "Recommendation", "verify": "Verify Product", "weather": "Weather", "market": "Marketplace", "complaints": "Complaints", "login": "Login", "signup": "Sign Up", "logout": "Logout" },
+  "login": { "title": "Login", "phone": "Phone Number", "password": "Password", "submit": "Login", "noAccount": "Don't have an account?", "signupLink": "Sign up here" },
+  "signup": { "title": "Create Account", "name": "Full Name", "phone": "Phone Number", "email": "Email (optional)", "password": "Password", "state": "State", "district": "District", "submit": "Sign Up", "haveAccount": "Already have an account?", "loginLink": "Login here" },
+  "dashboard": { "welcome": "Welcome", "subtitle": "Your one-stop farming assistant", "recommendCard": "Get crop & fertilizer recommendations", "verifyCard": "Verify product with QR code", "weatherCard": "Check weather & farming advice", "marketCard": "Browse agricultural products", "complaintsCard": "Report fake or expired products" },
+  "recommend": { "title": "Crop & Fertilizer Recommendation", "crop": "Crop", "season": "Season", "soilType": "Soil Type", "submit": "Get Recommendation", "result": "Recommended Fertilizer", "confidence": "Confidence", "tip": "Tip", "soilNote": "Soil Note" },
+  "verify": { "title": "Verify Product Authenticity", "scanBtn": "Scan QR Code", "manualLabel": "Or enter code manually", "checkBtn": "Check", "genuine": "Genuine Product", "fake": "Warning: Not Verified / Fake", "expired": "Expired" },
+  "weather": { "title": "Weather & Farming Advice", "useLocation": "Use My Location", "orCity": "Or search by city", "search": "Search", "temperature": "Temperature", "humidity": "Humidity", "condition": "Condition", "advice": "Farming Advice" },
+  "market": { "title": "Marketplace", "search": "Search products", "buy": "Buy", "outOfStock": "Out of Stock", "addToOrder": "Add to Order", "placeOrder": "Place Order" },
+  "complaints": { "title": "Report a Product Issue", "issueType": "Issue Type", "description": "Description", "qrCode": "QR Code (if available)", "submit": "Submit Complaint", "myComplaints": "My Complaints", "status": "Status" }
+}
